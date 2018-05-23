@@ -1,19 +1,5 @@
 var servers = [
 	{
-		name: "Mineplex",
-		game: "Draw My Thing",
-		wordListFile: "./wordlist-mineplex.txt",
-		defaultWordCount: 1,
-		defaultWordLength: [[5], [5, 4], [3, 2, 4]],
-	},
-	{
-		name: "Hive",
-		game: "Draw It",
-		wordListFile: "./wordlist-hive.txt",
-		defaultWordCount: 1,
-		defaultWordLength: [[5], [5, 5], [3, 3, 5]],
-	},
-	{
 		name: "Hypixel",
 		game: "Guess The Build",
 		wordListFile: "./wordlist-hypixel.txt",
